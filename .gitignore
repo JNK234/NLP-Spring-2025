@@ -2,3 +2,7 @@
 Logs
 *.txt
 *.jsonl
+data
+logs
+models
+__pycache__
